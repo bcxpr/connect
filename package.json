@@ -1,0 +1,24 @@
+{
+  "name": "connect",
+  "version": "1.0.0",
+  "description": "server, websocket, mongodb, flutter",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcxpr/connect.git"
+  },
+  "keywords": [
+    "flutter",
+    "nodejs",
+    "express"
+  ],
+  "author": "MTTSHNGH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcxpr/connect/issues"
+  },
+  "homepage": "https://github.com/bcxpr/connect#readme"
+}
